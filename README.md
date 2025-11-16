@@ -208,7 +208,7 @@ Letakkan screenshot login page di sini
 - Demo credentials info card
 
 ```
-<img width="612" height="849" alt="Screenshot 2025-11-16 120857" src="https://github.com/user-attachments/assets/edbd7699-73ed-441d-9313-5f50255c0a74" />
+![Screenshot 2025-11-16 120857](https://github.com/user-attachments/assets/edbd7699-73ed-441d-9313-5f50255c0a74)
 
 ```
 
@@ -218,7 +218,7 @@ Letakkan screenshot home page bagian atas di sini
 - User name dari SharedPreferences
 
 ```
-<img width="613" height="846" alt="Screenshot 2025-11-16 120909" src="https://github.com/user-attachments/assets/c8241967-cd6a-4698-9164-0368e409d079" />
+![Screenshot 2025-11-16 120909](https://github.com/user-attachments/assets/c8241967-cd6a-4698-9164-0368e409d079)
 
 ```
 
@@ -230,7 +230,7 @@ Letakkan screenshot about page di sini
 - About text
 
 ```
-<img width="616" height="849" alt="Screenshot 2025-11-16 121001" src="https://github.com/user-attachments/assets/dc72bcf2-3ddd-4c88-8630-eda2ae6474b9" />
+![Screenshot 2025-11-16 121001](https://github.com/user-attachments/assets/dc72bcf2-3ddd-4c88-8630-eda2ae6474b9)
 
 ```
 
@@ -243,7 +243,7 @@ Letakkan screenshot side menu di sini
 - Logout menu
 
 ```
-<img width="609" height="864" alt="Screenshot 2025-11-16 121011" src="https://github.com/user-attachments/assets/31b1ffb5-3f67-42ce-a7fb-a1cc65af5838" />
+![Screenshot 2025-11-16 121011](https://github.com/user-attachments/assets/31b1ffb5-3f67-42ce-a7fb-a1cc65af5838)
 
 ```
 
